@@ -10,9 +10,15 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-navigation/native": "^5.9.4",
+    "@reduxjs/toolkit": "^1.5.1",
+    "native-base": "^2.15.2",
     "react": "17.0.1",
     "react-native": "0.64.0",
-    "react-native-ble-plx": "^2.0.2"
+    "react-native-ble-plx": "^2.0.2",
+    "react-native-color-picker": "^0.6.0",
+    "react-native-swipe-list-view": "^3.2.6",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
