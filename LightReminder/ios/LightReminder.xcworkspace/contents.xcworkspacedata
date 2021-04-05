@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ble.swift">
+   </FileRef>
+   <FileRef
       location = "group:LightReminder.xcodeproj">
    </FileRef>
    <FileRef
